@@ -1,0 +1,5 @@
+s = input()
+s1 = s.replace("a", "7")
+s2 = s1.replace("b", "a")
+s3 = s2.replace("7", "b")
+print(s3)
